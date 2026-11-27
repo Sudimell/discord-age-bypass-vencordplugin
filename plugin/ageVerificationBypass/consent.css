@@ -1,0 +1,4 @@
+/* first launch modal must not be dismissible, so hide the x */
+[class*="outerContainer"]:has(.avb-consent) [class*="headerTrailing"] {
+    display: none;
+}
