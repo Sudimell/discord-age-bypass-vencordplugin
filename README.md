@@ -43,3 +43,5 @@ contact me or throw a coin
 - USD Solana `E4Eip8JK7bSrHv2fSExtPHVJurVvu6PfwbJUXxgYiGc4`
 
 mit
+
+<sub>btw yes, i maybe can use ai in my project since IM HELLA LAZY sometimes, blame me or whatever u gonna do, but idc abt that so keep cryin if ya mad abt ai</sub>
